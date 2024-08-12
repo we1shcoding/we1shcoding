@@ -85,5 +85,3 @@
   <li>이메일: [cogihyeon@naver.com]</li>
   <li>GitHub: [https://github.com/we1shcoding]</li>
 </ul>
-
-<p>새로운 도전과 기회를 기다리고 있으며, 함께 협력하고 성장할 수 있는 방법을 찾고 싶습니다. 연락 주세요!</p>
