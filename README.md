@@ -22,35 +22,38 @@ Unity 기반의 게임에서 서버 연결, 회원가입, 로그인 기능을 �
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 </span>
-데이터베이스:
 
+데이터베이스:
 <span>
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white" alt="OracleDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </span>
-도구 및 환경:
 
+도구 및 환경:
 <span>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </span>
-자격증:
 
+자격증:
 <span>
   <img src="https://img.shields.io/badge/정보처리기사-006400?style=flat&logo=certificate&logoColor=white" alt="정보처리기사" />
   <img src="https://img.shields.io/badge/SQLD-005C4D?style=flat&logo=database&logoColor=white" alt="SQLD" />
   <img src="https://img.shields.io/badge/ADSP-FF4F00?style=flat&logo=certification&logoColor=white" alt="ADSP" />
   <img src="https://img.shields.io/badge/리눅스마스터-003C5A?style=flat&logo=linux&logoColor=white" alt="리눅스마스터" />
 </span>
+
 📚 프로젝트 & 경험
 캡스톤 디자인 졸업 작품: 팀 프로젝트를 이끌고 참여하여 효과적인 협업을 통해 성공적으로 결과물을 완성했습니다.
 게임 개발: Unity와 C#을 사용하여 게임 기능을 개발했으며, Android Studio와 Java를 이용해 간단한 피하기 게임을 제작한 경험이 있습니다.
+
 🧩 개인 특성
 적응력 : 다양한 상황에서 타협하고 균형을 찾는 능력.
 자기 주도적 : 스스로 동기를 부여하고 독립적으로 작업하는 능력.
 자기 성찰적 : 자기 평가와 객관적인 자기 인식에 기반한 사고.
 과감한 의사결정 : 자신감 있게 결단을 내리는 능력.
+
 📫 연락처
 다음 방법으로 연락 주시면 좋겠습니다:
 
