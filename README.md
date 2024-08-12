@@ -9,7 +9,7 @@
 
 <h2>🚀 저에 대해</h2>
 <p>
-- 저는 웹 백엔드 개발에 열정을 가진 개발자로, <strong>JavaScript, Python, Java</strong>를<br>
+- 저는 <span style="color: yellow; font-weight: bold;">웹 백엔드 개발</span>에 열정을 가진 개발자로, <strong style="color: yellow;">JavaScript, Python, Java</strong>를<br>
   활용하여 다양한 개발 작업을 수행하고 있습니다.<br>
 - OracleDB와 MySQL을 포함한 SQL 문법과 데이터베이스 시스템에 능숙합니다.<br>
 - Node.js를 활용하여 서버 개발 환경을 구축하는 데 경험이 있습니다.<br>
@@ -60,11 +60,11 @@
 
 <h2>📚 프로젝트 & 경험</h2>
 <ul>
-  <li>게시판 개발 : 개인 프로젝트로, Intellij를 사용하여 Spring과 Java, JPA를 사용하여<br>
-    회원가입, 로그인, 글작성이 되는 간단한 게시판 만들기 프로젝트를 만들었습니다. </li>
+  <li>게시판 개발 : 개인 프로젝트로, IntelliJ를 사용하여 Spring과 Java, JPA를 사용하여<br>
+    회원가입, 로그인, 글작성이 되는 간단한 게시판 만들기 프로젝트를 만들었습니다.</li>
   <li>게임 개발 : Android Studio와 Java를 이용해 간단한 피하기 팬게임을 제작한 경험이 있습니다.</li>
   <li>게임 개발 (서버 관련-현재 진행중) : Unity와 C#을 사용하여 기본적인 게임 기능을 개발했으며,<br>
-  node.js를 사용하여 Unity에 서버를 연결해 회원가입과 로그인 등 서버 관련해서 기능들을 구현하고 있습니다.</li>
+  Node.js를 사용하여 Unity에 서버를 연결해 회원가입과 로그인 등 서버 관련 기능들을 구현하고 있습니다.</li>
 </ul>
 
 <hr>
