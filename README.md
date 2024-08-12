@@ -83,5 +83,4 @@
 <p>다음 방법으로 연락 주시면 좋겠습니다:</p>
 <ul>
   <li>이메일: [cogihyeon@naver.com]</li>
-  <li>GitHub: [https://github.com/we1shcoding]</li>
 </ul>
