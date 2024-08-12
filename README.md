@@ -1,5 +1,5 @@
 <h1 align="center">👋 안녕하세요, 저는 김서현입니다</h1>
-<p align="center">웹 백엔드 개발에 열정을 가진 개발자입니다.</p>
+<p align="center">웹 백엔드 개발에 열정을 가진 신입 개발자입니다.</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/IOwzBZrp0VIpdXkYDc/giphy.gif?cid=ecf05e477i8uy0jnf0r8w74j42x6epbvpnrqqutt51bygcdr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welsh Corgi" width="200" />
