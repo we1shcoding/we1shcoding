@@ -2,7 +2,7 @@
 <p align="center">웹 백엔드 개발에 열정을 가진 개발자입니다.</p>
 
 <p align="center">
-  <img src=<iframe src="https://giphy.com/embed/IOwzBZrp0VIpdXkYDc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/corgi-lazy-hk-IOwzBZrp0VIpdXkYDc">via GIPHY</a></p>/>
+  <img src="https://media.giphy.com/media/IOwzBZrp0VIpdXkYDc/giphy.gif?cid=ecf05e477i8uy0jnf0r8w74j42x6epbvpnrqqutt51bygcdr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Welsh Corgi" width="200" />
 </p>
 
 <hr>
