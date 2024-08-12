@@ -71,8 +71,8 @@ Unity 기반의 게임에서 서버 연결, 회원가입, 로그인 기능을 �
 <h2>📫 연락처</h2>
 <p>다음 방법으로 연락 주시면 좋겠습니다:</p>
 <ul>
-  <li>이메일: [your-email@example.com](mailto:your-email@example.com)</li>
-  <li>GitHub: [your-github-profile](https://github.com/your-github-profile)</li>
+  <li>이메일: [cogihyeon@naver.com]</li>
+  <li>GitHub: [https://github.com/we1shcoding]</li>
 </ul>
 
 <p>새로운 도전과 기회를 기다리고 있으며, 함께 협력하고 성장할 수 있는 방법을 찾고 싶습니다. 연락 주세요!</p>
