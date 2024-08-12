@@ -1,6 +1,10 @@
 <h1 align="center">👋 안녕하세요, 저는 김서현입니다</h1>
 <p align="center">웹 백엔드 개발에 열정을 가진 개발자입니다.</p>
 
+<p align="center">
+  <img src=<iframe src="https://giphy.com/embed/IOwzBZrp0VIpdXkYDc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/corgi-lazy-hk-IOwzBZrp0VIpdXkYDc">via GIPHY</a></p>/>
+</p>
+
 <hr>
 
 <h2>🚀 저에 대해</h2>
